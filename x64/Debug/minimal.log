@@ -1,0 +1,21 @@
+﻿  minimal.cpp
+d:\downloads\newtest\sisteutgave\minimal.cpp(390): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(691): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(706): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(707): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(708): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(709): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(835): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(836): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(840): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(841): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(842): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\downloads\newtest\sisteutgave\minimal.cpp(845): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\downloads\newtest\sisteutgave\minimal.cpp(933): warning C4473: 'printf' : not enough arguments passed for format string
+  d:\downloads\newtest\sisteutgave\minimal.cpp(933): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  d:\downloads\newtest\sisteutgave\minimal.cpp(933): note: the missing variadic argument 1 is required by format string '%s'
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\Downloads\newTest\SisteUtgave\x64\Debug\vc120.pdb'; linking object as if no debug info
+  minimal.vcxproj -> D:\Downloads\newTest\SisteUtgave\x64\Debug\minimal.exe
